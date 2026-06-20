@@ -1,0 +1,16 @@
+==================================================
+        RELATORIO DE PERFORMANCE E ERROS          
+==================================================
+
+Total de logs processados: 3
+
+--- ERROS CRITICOS DETECTADOS ---
+Quantidade: 1
+ -> Servico: DatabaseService | Hora: 2026-03-20 13:01:00 | Tempo: 112.1ms
+
+--- METRICAS DE LENTIDAO (ANALYTICS) ---
+ -> Tempo medio de resposta global: 50.1ms
+ -> Pior gargalo do sistema: DatabaseService demorou 112.1ms
+
+==================================================
+Relatorio gerado automaticamente pelo LogParser.

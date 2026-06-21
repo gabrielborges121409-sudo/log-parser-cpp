@@ -2,6 +2,7 @@
 # Analisador de Logs & Analytics em C++
 
 Este é um sistema desenvolvido em **C++17** projetado para ler, processar e analisar arquivos de log de servidores de forma extremamente rápida. O software possui um modelo modular (separando arquivos de cabeçalho `.hpp` e implementações `.cpp`) para garantir organização e desenvolvimento.
+Também deixei comentários no meio do código para que você consiga compreender o que está acontecendo no meio do processo.
 
 ##  Funcionalidades do Sistema
 * **Leitura e Parsing Avançado:** Varre arquivos de log complexos utilizando `std::stringstream` para recortar delimitadores.
